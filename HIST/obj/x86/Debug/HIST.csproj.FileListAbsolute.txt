@@ -1,0 +1,52 @@
+F:\学习\C# 代码\HIST\HIST\bin\Debug\HIST.exe
+F:\学习\C# 代码\HIST\HIST\bin\Debug\HIST.pdb
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form1.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Properties.Resources.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.exe
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.pdb
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form2.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form3.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form4.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form5.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form6.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form7.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form8.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form9.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form10.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form11.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form12.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form13.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form14.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form15.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form16.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form17.resources
+F:\学习\C# 代码\HIST\HIST\obj\x86\Debug\HIST.Form18.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.exe
+F:\HIST\HIST\obj\x86\Debug\HIST.pdb
+F:\HIST\HIST\bin\Debug\HIST.exe
+F:\HIST\HIST\bin\Debug\HIST.pdb
+F:\HIST\HIST\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\HIST\HIST\obj\x86\Debug\HIST.Form1.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form10.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form11.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form12.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form13.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form14.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form15.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form16.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form17.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form18.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form2.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form3.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form4.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form5.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form6.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form7.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form8.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Form9.resources
+F:\HIST\HIST\obj\x86\Debug\HIST.Properties.Resources.resources
+F:\HIST\HIST\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\HIST\HIST\obj\x86\Debug\GenerateResource.write.1.tlog
